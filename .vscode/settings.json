@@ -59,6 +59,7 @@
   "files.associations": {
     "bitset": "cpp",
     "set": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "iostream": "cpp"
   }
 }
