@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-
         long long N;
         cin >> N;
         vector<long long>A(N);
